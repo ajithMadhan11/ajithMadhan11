@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajithmadhan</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 🔭 I’m currently working on **Hashfeed(LMS)**
+- 🔭 I’m currently working on **Trello - Clone**
 
 - 🌱 I’m currently learning **Redux,Graph Ql,Next js**
 
