@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux,Graph Ql,Next js**
 
-- 💬 Ask me about **React, node ,Css and Bootstrap**
+- 💬 Ask me about **javascript , React, Nodejs , Css and Bootstrap**
 
 - 📫 How to reach me **ajithmadhank@gmail.com**
 
