@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hashfeed(LMS)**
 
-- 🌱 I’m currently learning **Redux,Graph Ql**
+- 🌱 I’m currently learning **Redux,Graph Ql,Next js**
 
 - 💬 Ask me about **React, node ,Css and Bootstrap**
 
