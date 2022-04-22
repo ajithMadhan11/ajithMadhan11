@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajithmadhan</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 🔭 I’m currently working on **Hash - Blogs**
+- 🔭 I’m currently working on **Fresh Wagon**
 
-- 🌱 I’m currently learning **Redux,Graph Ql,Next js**
+- 🌱 I’m currently learning **Clean Architecture,Swift,UIKit**
 
-- 💬 Ask me about **javascript , React, Nodejs , Css and Bootstrap**
+- 💬 Ask me about **javascript , React, Nodejs , Css and Bootstrap , Swift , UIKit, Ios Development**
 
 - 📫 How to reach me **ajithmadhank@gmail.com**
 
