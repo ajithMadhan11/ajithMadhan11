@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajithmadhank@gmail.com**
 
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1vFDiZKCRzVvUdJ4TkACHbj_PqVF6TtDD/view?usp=sharing](https://drive.google.com/file/d/1PRdkAwOdakZY5EO9jLdMSyBRKVVneVZ-/view?usp=drive_link))
+- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1PRdkAwOdakZY5EO9jLdMSyBRKVVneVZ-/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
